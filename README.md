@@ -2,8 +2,8 @@
 
 An Instagram Clone using Laravel
 
-![screenshoots](https://github.com/mohamed9623/instagramClone-laravel-project/issues/1#issue-1115028951)
-
+![screenshoots](127.0.0.1_8000_.png)
+![screenshoots](127.0.0.1_8000_profile_mh7.png)
 ## Getting started
 
 1. Install composer `composer install`

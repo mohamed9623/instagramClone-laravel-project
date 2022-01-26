@@ -2,7 +2,7 @@
 
 An Instagram Clone using Laravel
 
-[screenshoots](https://github.com/mohamed9623/instagramClone-laravel-project/issues/1#issue-1115028951)
+![screenshoots](https://github.com/mohamed9623/instagramClone-laravel-project/issues/1#issue-1115028951)
 
 ## Getting started
 
